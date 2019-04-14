@@ -1,0 +1,607 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .container {
+        width: 1170px;
+    }
+
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .container {
+        width: 970px;
+    }
+
+    /*Header area start*/
+    .logo {
+        margin-top: 64px;
+    }
+
+    .logo img {
+
+        width: 130px;
+    }
+
+    .header_left {
+        width: 15%;
+        float: left;
+    }
+
+    .header_middle {
+        width: 60%;
+        float: left;
+    }
+
+    .manu nav ul li a {
+        font-size: 11px;
+    }
+
+    .header_right_right a {
+        padding: 12px 40px;
+        margin-top: 57px;
+    }
+
+    .language a {
+        margin-left: 22px;
+    }
+
+    /*Header area end*/
+
+
+
+    .single_service {}
+
+    .lg-device-secvice {
+        width: 310px;
+        margin-right: 3px;
+        height: 235px;
+
+    }
+
+
+
+
+    .lg-why-we-btom {
+        width: 240px;
+    }
+
+
+
+    .single_work {
+        width: 150px;
+        height: 150px;
+    }
+
+    .working-btm-lg {
+        width: 140px;
+        margin-right: 9px;
+    }
+
+
+
+    .contact {
+        width: 550px;
+        height: 400px;
+        margin-left: 210px;
+    }
+
+
+    .info {
+        padding-top: 50px;
+    }
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .container {
+        width: 750px;
+    }
+
+    /*Header area start*/
+    .logo {
+        margin-top: 27px;
+    }
+
+    .logo img {
+        width: 160px;
+    }
+
+    .header_left {
+        width: 15%;
+        float: left;
+    }
+
+    .header_middle {
+        width: 65%;
+        float: left;
+    }
+
+    .header_right {
+        width: 20%;
+
+    }
+
+    .manu nav ul li a {
+        font-size: 10px;
+    }
+
+    .header_right_right a {
+        padding: 4px 10px;
+        margin-top: 28px;
+    }
+
+    .language a {
+        margin-left: 22px;
+        margin-top: 33px;
+    }
+
+    .single_slider h1 {
+        font-size: 50px;
+        padding-top: 220px;
+        margin: auto;
+    }
+
+    /*Header area end*/
+
+
+    .lg-device-secvice {
+        width: 240px;
+        margin: 0 5px;
+        height: 235px;
+    }
+
+    .single_service a.button {
+        padding: 4px 8px;
+        font-size: 14px;
+        float: left;
+        margin-top: -40px;
+        margin-right: 0;
+    }
+
+    .single_service {
+        padding-bottom: 5px;
+    }
+
+    .readMore {
+        font-size: 12px;
+        float: right;
+        width: 70px;
+        margin-top: -34px;
+    }
+
+    .lg-why-we-btom {
+        width: 180px;
+    }
+
+    .why_we_area {
+        min-height: 665px;
+    }
+
+    .working-btm-lg {
+        width: 112px;
+        margin-right: 0px;
+        height: 112px;
+    }
+
+    .single_work {
+        line-height: 100px;
+    }
+
+
+
+    .Advertisers_left {
+        width: 45%;
+
+    }
+
+    .Advertisers_right {
+        width: 55%;
+    }
+
+    .Advertisers_right img {
+        width: 99%;
+    }
+
+    .Advertisers_left_top h1 {
+        padding-top: 165px;
+        font-size: 48pt;
+    }
+
+    .Advertisers_left_bottom a img {
+        padding-right: 15px;
+        float: left;
+        width: 50%;
+    }
+
+    .Agencies_bottom {
+        margin-top: 30px;
+    }
+
+    .Agencies_bottom_left {
+        width: 48%;
+    }
+
+    .Agencies_bottom_right {
+        width: 48%;
+    }
+
+    .fact_fix {
+        width: 15%;
+        height: 280px;
+        margin: 0px 6px;
+    }
+
+    .fact_fix img {
+        height: 100px;
+        width: 100px;
+    }
+
+    .contact {
+        width: 550px;
+        height: 400px;
+        margin-left: 100px;
+        margin-top: -530px;
+    }
+
+
+    .info {
+        padding-top: 50px;
+    }
+
+}
+
+
+
+
+/* Extra small Device. */
+@media only screen and (max-width: 767px) {
+    .container {
+        width: 100%;
+
+    }
+
+    .logo {
+        margin-top: 27px;
+    }
+
+    .logo img {
+        width: 145px;
+    }
+
+    .header_left {
+        float: left;
+        width: 150px;
+    }
+
+
+
+    .header_right {
+        float: right;
+        width: 125px;
+    }
+
+    .manu nav ul li a {
+        font-size: 10px;
+    }
+
+    .header_right_right a {
+        padding: 4px 15px;
+        margin-top: 28px;
+        margin-right: 15px;
+    }
+
+    .language a {
+        margin-left: 0;
+        margin-top: 33px;
+        font-size: 12px;
+        text-align: right;
+        width: 25px;
+    }
+
+    .single_slider h1 {
+        font-size: 25px;
+        padding-top: 220px;
+        margin: auto;
+    }
+
+    .single_slider a {
+        font-size: 12px;
+        padding: 5px 14px;
+        background: #ec530d;
+        border-radius: 45px;
+        text-decoration: none;
+        color: #fff;
+    }
+
+    /*Header area end*/
+
+
+    .lg-device-secvice {
+        width: 98%;
+        margin: auto;
+        height: 205px;
+        float: none;
+    }
+
+    .single_service a.button {
+        padding: 4px 8px;
+        font-size: 14px;
+        float: left;
+        margin-top: -40px;
+        margin-right: 0;
+    }
+
+    .service_area {
+        height: 124%;
+    }
+
+    .single_service {
+        padding: 35px;
+        position: absolute;
+        text-align: center;
+        width: 98%;
+    }
+
+    .single_service h1 {
+        margin: auto;
+        width: 100%;
+        font-size: 22px;
+    }
+
+    .readMore {
+        font-size: 12px;
+        float: right;
+        width: 70px;
+        margin-top: -34px;
+    }
+
+    .lg-why-we-btom {
+        width: 25%;
+    }
+
+    .why_we_bottom {
+        margin: 0 10px;
+    }
+
+    .why_we_area {
+        height: auto;
+        overflow: hidden;
+    }
+
+    .working_area {
+        background: #f6f6f6;
+        height: auto;
+    }
+
+    .working_top {
+        padding: 30px;
+    }
+
+    .working-btm-lg {
+        width: 100%;
+        height: auto;
+        float: left;
+        margin: 5px;
+    }
+
+    .working_bottom {
+        overflow: hidden;
+        width: 50%;
+        margin: 0 auto;
+        height: auto;
+    }
+
+    .single_work {
+        line-height: 100px;
+        height: auto;
+    }
+
+    .Advertisers {
+        margin: 0 10px;
+    }
+
+    .Advertisers_left {
+        width: 45%;
+
+    }
+
+    .Advertisers_right {
+        width: 55%;
+    }
+
+    .Advertisers_right img {
+        width: 80%;
+    }
+
+    .Advertisers_left_top h1 {
+        padding-top: 50%;
+        font-size: 25px;
+    }
+
+    .Advertisers_left_top p {
+        font-size: 15px;
+    }
+
+    .Advertisers_left_bottom a img {
+        padding-right: 15px;
+        float: left;
+        width: 50%;
+    }
+
+    .Agencies_area {
+        margin: 0 10px;
+    }
+
+    .Agencies_area p {
+        font-size: 12px;
+    }
+
+    .Agencies_top h1 {
+        font-size: 30px;
+    }
+
+    .Agencies_bottom {
+        margin-top: 30px;
+    }
+
+    .Agencies_bottom_left {
+        width: 48%;
+    }
+
+    .Agencies_bottom_right {
+        width: 48%;
+    }
+
+    .Publishers_top {
+        width: 100%;
+    }
+
+    .Publishers_top p {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    .Publishers_bottom video {
+        width: 50%;
+        margin: auto;
+        height: auto;
+    }
+
+    .fact_area {
+        height: 100%;
+    }
+
+    .fact_area {
+        height: auto;
+    }
+
+    .fact_top {
+        width: 100%;
+    }
+
+    .fact_top h1 {
+        margin: 0 auto;
+        font-size: 30px;
+    }
+
+    .fact_top p {
+        font-size: 14px;
+    }
+
+    .fact_fix {
+        width: 29%;
+        height: auto;
+        margin: 10px 6px;
+        float: left;
+    }
+
+    .fact_fix p {
+        font-size: 12px;
+    }
+
+    .fact_fix img {
+        height: 100px;
+        width: 100px;
+    }
+
+    .googlemap {
+        width: 100%;
+    }
+
+    .contact {
+        width: 50%;
+        height: auto;
+        margin-top: -464px;
+        margin-left: 25%;
+    }
+
+    .info {
+        padding-top: 5px;
+    }
+
+    .info h1 {
+        font-size: 12px;
+        width: 100%;
+    }
+
+    .info p {
+        font-size: 12px;
+    }
+
+    .phone {
+        width: 100%;
+        margin: auto;
+    }
+
+    .email {
+        width: 100%;
+        margin: auto;
+    }
+
+    .skype {
+        width: 100%;
+        margin: auto;
+    }
+
+    .footer {
+        height: auto;
+    }
+
+    .footer_social {
+        margin-bottom: 20px;
+    }
+
+    .copyright {
+        width: 100%;
+        font-size: 12px;
+        margin: 35px auto;
+    }
+
+}
+
+/* SM Small Device :550px. 
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .container {
+        width: 550px;
+    }
+}*/
+
+
+/* retina query */
+@media only screen and (-webkit-min-device-pixel-ratio:2) and (max-width:991.98px),
+only screen and (min--moz-device-pixel-ratio:2) and (max-width:991.98px),
+only screen and (-o-min-device-pixel-ratio:2/1) and (max-width:991.98px),
+only screen and (min-device-pixel-ratio:2) and (max-width:991.98px),
+only screen and (min-resolution:192dpi) and (max-width:991.98px),
+only screen and (min-resolution:2dppx) and (max-width:991.98px) {
+
+    .logo .standard-logo {
+        display: none;
+    }
+
+    .logo .retina-logo {
+        display: inline-block;
+    }
+
+}
+
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),
+only screen and (min--moz-device-pixel-ratio:2),
+only screen and (-o-min-device-pixel-ratio:2/1),
+only screen and (min-device-pixel-ratio:2),
+only screen and (min-resolution:192dpi),
+only screen and (min-resolution:2dppx) {
+    .logo .standard-logo {
+        display: none;
+    }
+
+    .logo .retina-logo {
+        display: inline-block;
+    }
+
+}
